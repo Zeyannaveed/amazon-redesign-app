@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8019e19.css",
+    "main.js": "/static/js/main.ab12d699.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/mainhader.png": "/static/media/mainhader.bb6148d299f9e0fc78e1.png",
+    "static/media/accountimg.png": "/static/media/accountimg.8b66d1e62984c0426226.png",
+    "static/media/searchicon.png": "/static/media/searchicon.a63d696917fb613509f1.png",
+    "static/media/cartimg.png": "/static/media/cartimg.0edb59010b1db3cbc904.png",
+    "static/media/headphones.png": "/static/media/headphones.8348e01d2652a8e5321a.png",
+    "static/media/video.png": "/static/media/video.52535072f84ae498ac6f.png",
+    "static/media/console.png": "/static/media/console.48960ffaee895a6b5754.png",
+    "static/media/wristwatch.png": "/static/media/wristwatch.5fec9d07ddda93d1b3ff.png",
+    "static/media/camera.png": "/static/media/camera.8863c1d2789825f76759.png",
+    "static/media/tshirt.png": "/static/media/tshirt.9e6b761faeeb551cd06a.png",
+    "static/media/bicycle.png": "/static/media/bicycle.cb2dfca706d2ad3f22c9.png",
+    "index.html": "/index.html",
+    "main.c8019e19.css.map": "/static/css/main.c8019e19.css.map",
+    "main.ab12d699.js.map": "/static/js/main.ab12d699.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8019e19.css",
+    "static/js/main.ab12d699.js"
+  ]
+}
